@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: submenus iiit 
 nav: true
 nav_order: 8
 dropdown: true
@@ -8,7 +8,7 @@ children:
   - title: publications
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: projects iiit
     permalink: /projects/
   - title: divider
   - title: blog
